@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+sqlalchemy
+psycopg2-binary
+python-dotenv
+pypdf
+scikit-learn
+streamlit
+requests
